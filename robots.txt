@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://silasneiger033.github.io/GarageLedger/sitemap.xml
